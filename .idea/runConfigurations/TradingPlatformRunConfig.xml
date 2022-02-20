@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TradingPlatformRunConfig" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Exchange" />
+    <module name="Trading platform" />
+    <selectedOptions>
+      <option name="environmentVariables" visible="false" />
+    </selectedOptions>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
